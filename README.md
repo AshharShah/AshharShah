@@ -7,4 +7,4 @@ I love Cats and the color Blue. 😋
 The language i am using for programming is C++, people might say its old but i like it because it adds flexibility when you move on to other languages. 
 💻 
 
-Currently I am in my 2nd Year in the university so i still have alot to learn. 😁
+Currently I am in my 3rd Year in the university so i still have alot to learn. 😁

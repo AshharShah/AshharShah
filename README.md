@@ -4,7 +4,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
-<strong> You can reach me at: </strong> u2020478@giki.edu.pk
+<strong> You can reach me at: </strong> 
+Mail : u2020478@giki.edu.pk
+Message : https://www.linkedin.com/in/syed-muhammad-ashhar-shah/
 
 <hr>
 

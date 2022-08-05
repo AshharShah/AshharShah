@@ -8,6 +8,12 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
+<style>
+  img{
+  display: inline;
+  }
+</style>
+
 <h3> Frameworks I Have Worked On: </h3>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

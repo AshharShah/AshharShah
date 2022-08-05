@@ -5,7 +5,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <hr>
 
 <strong> You can reach me at: </strong> 
-<p> Mail : u2020478@giki.edu.pk </p>
+<p> 📫 u2020478@giki.edu.pk </p>
 
 <hr>
 

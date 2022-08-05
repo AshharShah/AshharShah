@@ -2,7 +2,7 @@ Hi, My Name is Ashhar Shah,
 
 I am a student at one of Pakistan's leading Computer Science and Engineering University (Ghulam Ishaq Khan Institute) pursuing a bachelor's degree in Computer Science. I use this playform to collaborate with people working on the same project as me as well as showcase the projects I have made.
 
-You can reach me at: u2020478@giki.edu.pk
+<strong> You can reach me at: </strong> u2020478@giki.edu.pk
 
 <h3> Frameworks I Have Worked On: </h3>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />

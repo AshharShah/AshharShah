@@ -9,7 +9,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
-<h4> My Development Environment and Operating System </h4>
+<h4> My Development Environment and Operating System: </h4>
 <em>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />

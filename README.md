@@ -52,5 +52,6 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <h3> My Github Stats: </h3>
 <a href="http://www.github.com/AshharShah">
-<img src="https://github-readme-stats.vercel.app/api?username=AshharShah&theme=algolia&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" width="50%" alt="ramblingadam's GitHub stats" /></a>
-<a href="http://www.github.com/AshharShah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshharShah&theme=algolia&hide_border=true" width="50%"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=AshharShah&theme=algolia&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" width="100%" alt="Ashhar's GitHub stats" /></a>
+
+<a href="http://www.github.com/AshharShah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshharShah&theme=algolia&hide_border=true" width="100%"/></a>

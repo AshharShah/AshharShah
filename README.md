@@ -52,4 +52,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <h3> My Github Stats: </h3>
 
-[![Ashhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshharShah&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/AshharShah?tab=repositories)
+<h2 align="center">Stats</h2>
+<a href="http://www.github.com/AshharShah">
+<img src="https://github-readme-stats.vercel.app/api?username=AshharShah&theme=algolia&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" width="50%" alt="ramblingadam's GitHub stats" /></a>
+<a href="http://www.github.com/AshharShah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshharShah&theme=algolia&hide_border=true" width="50%"/></a>

@@ -1,6 +1,6 @@
 Hi, My Name is <strong>Ashhar</strong>,
 
-I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Computer Science. I use this playform to collaborate with people working on the same project as me as well as showcase the projects I have made.
+I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Computer Science. I use this platform to collaborate with people working on the same project as me as well as showcase the projects I have made.
 
 <hr>
 

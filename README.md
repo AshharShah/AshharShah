@@ -1,3 +1,5 @@
+![HELP ME]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+
 Hi, My Name is <strong>Ashhar</strong>,
 
 I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Computer Science. I use this platform to collaborate with people working on the same project as me as well as showcase the projects I have made.

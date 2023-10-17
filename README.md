@@ -1,4 +1,4 @@
-![Help Me](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Help Me](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Hi, My Name is <strong>Ashhar</strong>,
 

@@ -2,9 +2,11 @@
 <img height="350" width ="650" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
 </p>
 
+<hr>
+
 Hi, My Name is <strong>Ashhar</strong>,
 
-I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Computer Science. I use this platform to collaborate with people working on the same project as me as well as showcase the projects I have made.
+I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Computer Science. My interests lie in web development and machine learning. I use this platform to collaborate with people working on the same project as me as well as showcase the projects I have made.
 
 <hr>
 

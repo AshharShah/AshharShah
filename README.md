@@ -1,4 +1,4 @@
-<img alt="GIF" align="center" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img height="350" width ="650" alt="GIF" align="center" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 Hi, My Name is <strong>Ashhar</strong>,
 
